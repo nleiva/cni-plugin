@@ -1,10 +1,10 @@
 # My CNI plugin
 
-Playing around with hacked CNI-plugins
+Playing around with hacked CNI-plugins. 
 
 ## Objectives
 
-1. Add Liz Rice's [Container from scratch](https://github.com/lizrice/containers-from-scratch) to a new network namespace and configure the network via a modified CNI-plugin.
+1. Add Liz Rice's [Container from scratch](https://github.com/lizrice/containers-from-scratch) to a new network namespace and configure the network via a modified CNI-plugin. Lightning talk at Gophercon [slides](https://docs.google.com/presentation/d/16kJz9k3l9jyLk6v0y0FMgPkXWa7rJadJ6v9nKbzAScQ/edit?usp=sharing).
 2. Deploy a modified CNI-plugin in a Kubernetes cluster to auto-provision IPv6 addresses.
 ...
 
